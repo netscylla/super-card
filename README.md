@@ -1,4 +1,6 @@
 # Super-exe
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnetscylla%2Fsuper-card.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnetscylla%2Fsuper-card?ref=badge_shield)
+
 An interface to the Mifare Super (Suppa/Supper) Card utilising the libnfc 1.7.1 library.
 Many super-card card programs are either broken / wrong type / or written in Chinese.
 This is a simple English (American) Language program to faciliate non-Chinese users.
@@ -46,3 +48,6 @@ Found Key: [e5b20aeeffff]
 
 # Further cracking
 Use the Mifare nested attack (or mfoc.exe) to crack any remaining keys on a genuine card.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnetscylla%2Fsuper-card.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnetscylla%2Fsuper-card?ref=badge_large)
